@@ -31,4 +31,10 @@ The dashboard uses interactive slicers on the left side to filter the visuals by
 - **Customer Commute** - compares bike purchase counts across commute-distance buckets.
 - **Slicers** - let you filter by marital status, region, and education.
 
+## Project Preview
+
+![Bike Sales Dashboard](Screenshot%202026-06-25%20at%2015.35.30.png)
+
+The image above shows the main dashboard workbook with slicers on the left and the three summary charts used to explore the bike sales data.
+
 
